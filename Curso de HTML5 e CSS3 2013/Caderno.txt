@@ -1,0 +1,32 @@
+----- História da Internet -----
+
+Samuel Morse - Em 1835 inventou o telégrafo e o código Morse.
+
+DARPA (Defense Advanced Research Projects Agency) - Criada em 1969, era uma agência nacional de defesa, criada pelos Estados Unidos, que além de contar com financiamento governamental, também contava com ajuda de universidades como UCLA, universidade da Califórnia. Foi a responsável por dar início para o que hoje conhecemos como Internet. Inicialmente interligando 4 computadores, assim criando a Arpanet, interligando computadores de universidade e militares. Criando um protocolo que permitia os computadores comunicarem entre si, pois eram máquinas diferentes. Criado assim, protocolos que são utilizados até hoje, como FTP e DNS.
+
+Ray Tomlinson - Criador do e-mail. 1972
+
+Robert Kahn - Criador do TCP, quebrando os dados em pacotes para facilitar o envio pela rede.
+ 
+Vint Cerf - Criador do IP, Internet Protocol
+
+Robert Kahn e Vint Cerf criaram juntos o TCP/IP, permitindo um aumento de computadores na rede. 1973
+
+Tim Berners-Lee - Criou o protocolo HTTP, a linguagem de marcação HTML e conceito World Wide Web. 1980
+
+----- História dos Navegadores -----
+
+Entre os primeiros navegadores criados, em 1992 Mosaic foi o que mais se destacou no início. Em 1994, alguns de seus desenvolvedores trabalhavam em outro navegador, Netscape se tornou o navegador mais usado. Depois do Netscape, em 1995 veio o Internet Explorer, que já vinha instalado nos computadores e mesmo depois de perder um processo judicial para o Netscape em 1996, se manteve sendo o mais usado. Assim, antigos desenvolvedores do Netscape que trabalhavam desde do Mosaic, em 1999 criaram o Mozilla, que se tornou o principal navegador e de 2008 até os dias de hoje, os mais usados são Mozilla e Chrome.
+
+----- História do HTML -----
+
+A primeira versão, criada por Tim Berners-Lee, ficou ativa por 5 anos. De 1990 a 1995.
+A segunda versão, que agora está sob responsabilidade da HTML Working Group, e as empresas de navegador começaram a auxiliar na linguagem. 
+A terceira versão. Criada pelo W3C (World Wide Web Consortium), liderado pelo próprio Tim Berners-Lee, trouxe a padronização de tags.
+A versão 4, teve um curto período de tempo, que foi sugerir a criação de um nova linguagem a Extensible HTML, ou XHTML
+O grupo de navegadores, com medo das decisões tomadas pelo W3C sobre o XHTML, criaram um novo grupo chamado WHATWG, onde iria dar continuidade ao HTML4. 
+Em 2007, o projeto XHTML chegou a sua versão 2.0. Porém, aṕos receber uma proposta do WHATWG de uma nova versão do HTML, a W3C decide descontinuar a versão XHTML e dar iniciou a versão 5 do HTML. 
+A versão 5 vem sendo usada até hoje, e as principais mudanças são a separação total de semântica, estilo e interatividade. 
+Semântica com HTML
+Estilo com CSS
+Interatividade com Javascript
