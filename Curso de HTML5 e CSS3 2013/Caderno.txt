@@ -30,3 +30,8 @@ A versão 5 vem sendo usada até hoje, e as principais mudanças são a separaç
 Semântica com HTML
 Estilo com CSS
 Interatividade com Javascript
+
+Como funciona a Internet.
+
+A internet possibilita a comunicação entre dois computadores distantes através de sinais analógicos que são convertidos para sinais digitais pelo Modem. Assim, o computador pode solicitar através da rede acesso a dados de servidores como arquivos de HTML, que serão interpretados pelo computadores, dando assim acesso a sites.
+Para saber encontrar o servidor correto, o computador busca seu endereço em um servidor especial, conhecido como DNS, Domain Name System, conseguindo o endereço IP através do domínio do site.
