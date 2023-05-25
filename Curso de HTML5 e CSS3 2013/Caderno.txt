@@ -49,9 +49,15 @@ href - Hypertext Reference
 A tag <center></center> ou align="center", acabou do html 4 pro 5. Agora centralizações é feito como margin.
 
 Padding e Margin:
+
+4 valores:
 1º Valor: Cima
 2º Valor: Direita
 3º Valor: Baixo
 4º Valor Esquerda
+
+2 valores
+1º valor é referente a cima e em baixo.
+2º valor é referente a esquerda e direita.
 
 Sentido horário.
