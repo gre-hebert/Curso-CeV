@@ -41,3 +41,17 @@ ANOTAÇÕES
 A quebra de palavra pode ser feita pelo <wbr> (sem hífen) ou por &shy (com hífen)
 
 Para adicionar o simbolos como o do Copyright, busque por simbolos em HTML5.
+
+CSS
+
+href - Hypertext Reference
+
+A tag <center></center> ou align="center", acabou do html 4 pro 5. Agora centralizações é feito como margin.
+
+Padding e Margin:
+1º Valor: Cima
+2º Valor: Direita
+3º Valor: Baixo
+4º Valor Esquerda
+
+Sentido horário.
