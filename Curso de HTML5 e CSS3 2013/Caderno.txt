@@ -61,3 +61,18 @@ Padding e Margin:
 2º valor é referente a esquerda e direita.
 
 Sentido horário.
+
+audio/mpeg: Usado para arquivos de áudio com formato MP3.
+audio/wav: Usado para arquivos de áudio com formato WAV.
+audio/ogg: Usado para arquivos de áudio com formato Ogg.
+audio/aac: Usado para arquivos de áudio com formato AAC.
+audio/flac: Usado para arquivos de áudio com formato FLAC.
+audio/midi: Usado para arquivos de áudio com formato MIDI.
+
+video/mp4: Usado para arquivos de vídeo com formato MP4.
+video/webm: Usado para arquivos de vídeo com formato WebM.
+video/ogg: Usado para arquivos de vídeo com formato Ogg.
+video/quicktime: Usado para arquivos de vídeo com formato QuickTime.
+video/x-msvideo: Usado para arquivos de vídeo com formato AVI.
+video/x-matroska: Usado para arquivos de vídeo com formato Matroska (MKV).
+video/x-flv: Usado para arquivos de vídeo com formato Flash Video (FLV).
