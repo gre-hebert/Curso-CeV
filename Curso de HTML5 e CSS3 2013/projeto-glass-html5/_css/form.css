@@ -51,3 +51,8 @@ fieldset#mensagem {
 fieldset#pedido {
     background: url(../_imagens/icone-pagamento.png) no-repeat 95% 95%;
 }
+
+input.botao {
+    display: block;
+    margin: 0 auto 10px auto;
+}

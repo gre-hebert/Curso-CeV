@@ -1,11 +1,11 @@
 @charset "UTF-8";
 
 section#conteudo {
-    width: 1000px;
+    width: 900px;
     margin: auto;
 }
 
 iframe#frame-spec {
-    width: 400px;
+    width: 395px;
     height: 280px;
 }
